@@ -1,0 +1,2 @@
+Cherry,Cherry Sapling,300,60
+Apple,Apple Sapling,300,60

@@ -1,0 +1,5 @@
+Chicken,Baby Chicken,Egg,Raw Chicken,180,120
+Goat,Baby Goat,Goats Milk,Raw Goat,300,120
+Pig,Baby Pig,Truffle,Pork,480,120
+Sheep,Baby Sheep,Wool,Mutton,600,120
+Cow,Baby Cow,Cows Milk,Beef,900,120

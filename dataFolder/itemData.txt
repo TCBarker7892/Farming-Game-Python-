@@ -1,0 +1,44 @@
+Carrot,Crop Produce,None,2,1000
+Potato,Crop Produce,None,4,1000
+Wheat,Crop Produce,None,6,1000
+Beetroot,Crop Produce,None,8,1000
+Melon,Crop Produce,None,10,1000
+Bamboo,Crop Produce,None,12,1000
+Carrot Seed,Crop Seed,1,None,None
+Seed Potato,Crop Seed,2,None,None
+Wheat Seed,Crop Seed,3,None,None
+Beetroot Seed,Crop Seed,4,None,None
+Melon Seed,Crop Seed,5,None,None
+Bamboo Sprout,Crop Seed,6,None,None
+Cherry,Tree Fruit,None,15,5000
+Apple,Tree Fruit,None,20,5000
+Cherry Sapling,Tree Sapling,50,None,None
+Apple Sapling,Tree Sapling,100,None,None
+Chicken,Mature Animal,None,400,10000
+Goat,Mature Animal,None,600,10000
+Pig,Mature Animal,None,800,10000
+Sheep,Mature Animal,None,1000,10000
+Cow,Mature Animal,None,1200,10000
+Baby Chicken,Baby Animal,200,100,None
+Baby Goat,Baby Animal,300,150,None
+Baby Pig,Baby Animal,400,200,None
+Baby Sheep,Baby Animal,500,250,None
+Baby Cow,Baby Animal,600,300,None
+Raw Chicken,Animal Meat,None,300,None
+Raw Goat,Animal Meat,None,450,None
+Pork,Animal Meat,None,600,None
+Mutton,Animal Meat,None,750,None
+Beef,Animal Meat,None,900,None
+Egg,Animal Produce,None,50,None
+Goats Milk,Animal Produce,None,80,None
+Truffle,Animal Produce,None,100,None
+Wool,Animal Produce,None,120,None
+Cows Milk,Animal Produce,None,150,None
+Fence,Decoration,50,50,1000
+Sign,Decoration,50,50,1000
+Stone Path,Decoration,50,50,1000
+Wood Log,Base Material,None,20,None
+Stone,Base Material,None,20,None
+Feta Cheese,Processed Item,None,200,None
+Cheddar Cheese,Processed Item,None,300,None
+Wooden Plank,Processed Item,None,50,None

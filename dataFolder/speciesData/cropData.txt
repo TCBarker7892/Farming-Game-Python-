@@ -1,0 +1,6 @@
+Carrot,Carrot Seed,60,30
+Potato,Seed Potato,120,30
+Wheat,Wheat Seed,240,30
+Beetroot,Beetroot Seed,300,30
+Melon,Melon Seed,480,30
+Bamboo,Bamboo Sprout,600,30
